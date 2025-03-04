@@ -31,7 +31,7 @@ $output = strtoupper($string);
 
 $output = ucwords($string);
 
-//trim
+///trim
 //$output = '   hai working   ';
 $output = trim('   hai working   ');
 ?>
