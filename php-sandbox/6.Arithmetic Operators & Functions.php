@@ -44,7 +44,7 @@ $output = max([22, 13, 5, 6]);
 //min
 $output = min(23, 3, 2, 7, 1);
 $output = min([22, 13, 5, 6]);
-//numberformater
+///numberformater
 
 $output = number_format(1234567.123456, 2, '.', ',');
 ?>
